@@ -134,6 +134,7 @@ Open source bots that you can use in your servers!
 - [THEM Magazines](https://issuu.com/themm)
 - [Khanacademy](https://www.khanacademy.org/)
 - [CKStudio+](https://studioplus.io/en)
+- [Eclipse Guide — Eclipse Animator tutorials](https://eclipseanimator.dev/tutorials/)
 
 ### Youtube Channels
 
